@@ -1,0 +1,8 @@
+{
+  "name": "Remix: PredictWin",
+  "description": "Prediction and opinion trading platform where users predict real-world outcomes and track their live portfolio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
